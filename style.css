@@ -127,6 +127,10 @@ nav {
 .about {
   padding: 5vw 30px;
 }
+
+.about-desc p {
+  line-height: 30px;
+}
 /* akhir about me */
 
 
